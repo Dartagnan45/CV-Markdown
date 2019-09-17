@@ -21,7 +21,7 @@ En ce moment en stage chez **Vroomiz**
      
 ## Ma formation 
 >1996-1999 BEP comptabilité Lycée St Paul Bourdon
-Blanc Orléans.
+Blanc Orléans.  
 >2019 Formation Développeur web à la **Wild Code School**
 
 ## Mes hobbies
