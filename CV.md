@@ -41,8 +41,8 @@ Blanc Orléans.
         * Street workout
         * Footing
     * Ceux que je regardent :
-        * Le foot
+        * Le Foot
         * La Boxe
-        * La formule 1
+        * La F1
 
 Mon profil [Github](https://github.com/Dartagnan45)
