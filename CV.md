@@ -1,6 +1,8 @@
 # Julien Boncoeur 
 ![](https://avatars0.githubusercontent.com/u/47785651?s=460&v=4)
-Anciennement opérateur de fabrication en reconvertion pour devenir **_développeur_**
+
+Anciennement opérateur de fabrication en reconvertion pour devenir **_développeur_**.  
+En ce moment en stage chez **Vroomiz**
 
 ## Mon expérience
 * **Dior** Septembre 2017 à Avril 2018
@@ -24,16 +26,23 @@ Blanc Orléans.
 
 ## Mes hobbies
 1. Le cinéma
-    * Amadeus
-    * Impitoyable
-    * Forest Gump
+    * Mes films préférés :
+        * Amadeus
+        * Impitoyable
+        * Forest Gump
 2. Jeu vidéo
-    * The Withcer 3
-    * Metal Gear Solid 3
-    * Final Fantasy 7
-    * A Link to he past
+    * Mes jeux préférés :
+        * The Withcer 3
+        * Metal Gear Solid 3
+        * Final Fantasy 7
+        * A Link to he past
 3. Le sport
-    * Street workout
-    * Footing
+    * Ceux que je pratiques :
+        * Street workout
+        * Footing
+    * Ceux que je regardent :
+        * Le foot
+        * La Boxe
+        * La formule 1
 
 Mon profil [Github](https://github.com/Dartagnan45)
