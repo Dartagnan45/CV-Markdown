@@ -37,10 +37,10 @@ Blanc Orléans.
         * Final Fantasy 7
         * A Link to he past
 3. Le sport
-    * Ceux que je pratiques :
+    * Ceux que je pratique :
         * Street workout
         * Footing
-    * Ceux que je regardent :
+    * Ceux que je regarde :
         * Le Foot
         * La Boxe
         * La F1
